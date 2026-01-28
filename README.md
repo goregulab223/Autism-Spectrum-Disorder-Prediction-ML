@@ -46,7 +46,16 @@ It includes EDA, preprocessing, class imbalance handling, model selection, hyper
 - Precision, Recall, F1-score
 
 ---
+Future Scope
 
+- Experiment with advanced models such as Random Forest or XGBoost to improve accuracy.
+- Apply hyperparameter tuning techniques like Grid Search
+- Address class imbalance using resampling techniques.
+- Add more behavioral and clinical features for better prediction.
+- Deploy the model using Flask or Streamlit for real-time user interaction.
+- Implement explainable AI methods to improve model transparency.
+
+--- 
 ## 🛠 Tech Stack
 - Python
 - Pandas, NumPy
@@ -60,5 +69,4 @@ It includes EDA, preprocessing, class imbalance handling, model selection, hyper
 ## 👤 Author
 **Gulab Gore**  
 
-## 📜 License
-MIT License
+
